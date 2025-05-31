@@ -1,6 +1,6 @@
 # ไฟล์แปลภาษาไทยสำหรับ AUTOMATIC1111 Stable Diffusion WebUI
 
-[![ชีลด์ GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME) ชุดไฟล์แปลภาษาไทยสำหรับส่วนติดต่อผู้ใช้ (UI) ของโปรแกรม AUTOMATIC1111 Stable Diffusion WebUI เพื่อให้ผู้ใช้งานชาวไทยสามารถใช้งานโปรแกรมได้ง่ายและเข้าใจมากยิ่งขึ้น
+[![ชีลด์ GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg)]([https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME](https://github.com/zenityX12/stable-diffusion-webui-thai-localization/)) ชุดไฟล์แปลภาษาไทยสำหรับส่วนติดต่อผู้ใช้ (UI) ของโปรแกรม AUTOMATIC1111 Stable Diffusion WebUI เพื่อให้ผู้ใช้งานชาวไทยสามารถใช้งานโปรแกรมได้ง่ายและเข้าใจมากยิ่งขึ้น
 
 **อัปเดตล่าสุด/แปลจากเวอร์ชัน:** 1.10.1
 
